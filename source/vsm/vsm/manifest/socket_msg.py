@@ -66,7 +66,7 @@ class SocketMessage(object):
     def _send_and_rec_msg(self):
         """Try to connect and send the msg.
 
-        If success, feed back the recived message.
+        If success, feed back the received message.
         If failed, return None.
 
         If can not connect to server, we still try to
