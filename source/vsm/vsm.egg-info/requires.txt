@@ -4,7 +4,7 @@ ordereddict
 pbr>=0.5.21,<1.0
 decorator
 Tempita >= 0.4
-SQLAlchemy>=0.7.3,<=0.7.9
+SQLAlchemy>=1.2.18,<=0.7.9
 amqplib>=0.6.1
 anyjson>=0.2.4
 argparse
