@@ -8,7 +8,7 @@ SQLAlchemy>=0.7.3,<=0.7.9
 amqplib>=0.6.1
 anyjson>=0.2.4
 argparse
-eventlet>=0.9.17
+eventlet>=0.40.3
 kombu>=1.0.4
 lockfile>=0.8
 lxml>=2.3
